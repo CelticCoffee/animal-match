@@ -1,0 +1,93 @@
+
+.movingStyle {
+  position: absolute;
+  width: 9em;
+  height: 9em;
+}
+
+.hiddenClass {
+  display: none;
+}
+
+
+.animalButton {
+  float: left;
+  padding: 0;
+  margin: .5em;
+  border: 0;
+  width: 9em;
+  height: 9em;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.btn-success {
+  width: 9em;
+}
+
+
+
+#secondVid {
+  margin-top: 1em;
+  width: 53em;
+  background-color: gray;
+  height: 30em;
+}
+
+#purpleBox {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  width: 10em;
+  height: 10em;
+  margin-top: 1em;
+  margin-right: .5em;
+  padding: 0em;
+  background-color: purple;
+  color: white;
+  border: 1px solid black;
+}
+
+
+#purpleBox .hiddenAnswers img {
+  opacity: 0.1;
+}
+
+.movingStyle {
+  position: absolute;
+  width: 9em;
+  height: 9em;
+}
+
+
+
+.reveal  {
+  opacity: 1;
+}
+
+.silly {
+  border: 3px solid green;
+}
+
+.red {
+  border: 3px solid red;
+}
+
+.finalWrong{
+  background-color: red;
+}
+
+.finalRight {
+  background-color: green;
+  opacity: 0.5;
+}
+
+.allCorrect {
+  opacity: 0.5;
+}
